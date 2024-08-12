@@ -56,6 +56,10 @@ To run the compiler, you need:
 
 - Python 3.x
 
-### License
+## Contribution
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to contribute improvements and fixes. To report issues or suggest new features, please open an [issue](link-to-issues) or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](link-to-license).
