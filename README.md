@@ -49,7 +49,7 @@ begin
   b := 10;
   print { a + b }
 end.
-
+```
 ### Requirements
 
 To run the compiler, you need:
