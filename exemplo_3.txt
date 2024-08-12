@@ -1,0 +1,13 @@
+program ProgExemplo;
+
+var valor:integer; 
+letra:string;
+
+procedure mostra(valorA:string);
+    begin
+        print{valorA};
+    end;
+
+begin
+    soma('mostra');
+end.
